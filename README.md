@@ -24,6 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+https://codeprojects.org/rwMdWFk2iVhEzizqZGSZxtPjqp4QGM7uYrVrth7xr14
+https://studio.code.org/projects/applab/E8ORnPvE1GfQz-OTeV7fpaMVXBDKhMXxRFGBtMoIbsg
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
